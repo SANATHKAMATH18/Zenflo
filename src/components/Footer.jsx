@@ -2,7 +2,7 @@ function Footer()
 {
     return (
       <div className="Footer">
-        <img src="#"></img>
+        <img src="./public/img/girllogo.jpg" style={{height:"50px"}}></img>
         <h5>All rights reserved</h5>
          <ul className="team-icon">
           <li>
